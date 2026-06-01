@@ -23,7 +23,7 @@ function Home2() {
               <i>
                 <b className="purple">
                   {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
+                  JavaScript/TypeScript, Databases, Express.js, Node.js, and React.js{" "}
                 </b>
               </i>
               — and I enjoy working across both backend and frontend stacks.
@@ -33,14 +33,14 @@ function Home2() {
               <i>
                 <b className="purple">
                   {" "}
-                  Web Applications, Blockchain Solutions,{" "}
+                  Web Applications, AI/ML, Cloud,{" "}
                 </b>
               </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
+              .
               <br />
               <br />
               Whenever possible, I love building projects with
-              <b className="purple"> Node.js </b> and modern frameworks like{" "}
+              <b className="purple"> Express.js and Node.js </b> and modern frameworks like{" "}
               <i>
                 <b className="purple">React.js</b> and{" "}
                 <b className="purple">Next.js</b>.
