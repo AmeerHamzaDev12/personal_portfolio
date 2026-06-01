@@ -3,9 +3,8 @@ import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
-import Techstack from "../About/Techstack";
 import DeveloperImg from "../../Assets/Gemini_Generated_Image_ouncifouncifounc.png";
-import Github from "../About/Github";
+// removed unused imports: Techstack, Github
 import {
   AiFillGithub,
   AiFillInstagram,

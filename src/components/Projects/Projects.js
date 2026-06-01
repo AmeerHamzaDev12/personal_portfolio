@@ -2,7 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import editor from "../../Assets/Projects/codeEditor.png";
 import chotainvestor from "../../Assets/Projects/chotainvestor thumbnail.png";
 import alqaim from "../../Assets/Projects/alqaim realestate thumbnail.png";
 import smart from "../../Assets/Projects/smart Recovery thumbnail.png";
