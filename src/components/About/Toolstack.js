@@ -3,7 +3,6 @@ import { Col, Row } from "react-bootstrap";
 import windows from "../../Assets/TechIcons/Windows 11.svg";
 import chrome from "../../Assets/TechIcons/Google Chrome.svg";
 import vsCode from "../../Assets/TechIcons/vscode.svg";
-import intelliJ from "../../Assets/TechIcons/intellij-idea.svg";
 
 function Toolstack() {
   return (
