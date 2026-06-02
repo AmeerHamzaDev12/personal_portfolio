@@ -46,7 +46,7 @@ function Projects() {
               imgPath={smart}
               isBlog={false}
               title="Smart Recovery System for traders"
-              description="A platform for providing smart recovery solutions for individuals and businesses facing financial difficulties."
+              description="A platform for Future traders where they can get future prices of Ethereum and bitcoin weekly,daily and hourly along with realtime market news."
               ghLink="https://github.com/AmeerHamzaDev12/SRSFT_Smart_Recovery_System"
               demoLink="/"              
             />
